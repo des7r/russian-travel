@@ -1,4 +1,4 @@
-.lead__map {
+  .lead__map {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -20,7 +20,6 @@
 
 @media screen and (min-width: 1024px) {
   .lead__map {
-      margin-top: 56px;
       max-width: 928px;
   }
 }
